@@ -1,0 +1,38 @@
+{
+  "name": "STORY MOVIES - 50 MB PRO - Watch Series, Movies, Horror, Drama, Action - Uganda",
+  "short_name": "STORY MOVIES",
+  "description": "STORY MOVIES v9.0 50 MB PRO - 50 MB Full App - 500+ Videos - Series, Movies, Horror, Drama, Action. Plans Day 1000 Week 5000 Month 15000 3 Months 30000 VIP Year 50000 Lifetime 150000. Support WhatsApp +256 774 150 925 Call +256 745 991 463 Email brightemerson1@gmail.com. Developer Bright Emerson, Kampala Uganda.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f0f0f",
+  "theme_color": "#0f0f0f",
+  "categories": ["entertainment", "video", "movies", "series"],
+  "lang": "en",
+  "shortcuts": [
+    { "name": "Watch Series - 50 MB", "short_name": "Series", "description": "Watch Series Only", "url": "/?cat=Series", "icons": [{ "src": "https://picsum.photos/192/192?21", "sizes": "192x192", "type": "image/png" }] },
+    { "name": "Watch Horror - 50 MB", "short_name": "Horror", "description": "Watch Horror Only", "url": "/?cat=Horror", "icons": [{ "src": "https://picsum.photos/192/192?31", "sizes": "192x192", "type": "image/png" }] },
+    { "name": "Buy Plans - From 1K", "short_name": "Plans", "description": "Day 1000 Week 5000 Month 15000 Lifetime 150000", "url": "/?cat=Plans", "icons": [{ "src": "https://picsum.photos/192/192?51", "sizes": "192x192", "type": "image/png" }] },
+    { "name": "Contact Support", "short_name": "Support", "description": "WhatsApp +256 774 150 925", "url": "/?cat=Support", "icons": [{ "src": "https://picsum.photos/192/192?61", "sizes": "192x192", "type": "image/png" }] }
+  ],
+  "screenshots": [
+    { "src": "https://picsum.photos/1080/1920?21", "sizes": "1080x1920", "type": "image/jpeg", "form_factor": "narrow", "label": "STORY MOVIES 50 MB Home" },
+    { "src": "https://picsum.photos/1080/1920?31", "sizes": "1080x1920", "type": "image/jpeg", "form_factor": "narrow", "label": "STORY MOVIES Horror" },
+    { "src": "https://picsum.photos/1080/1920?41", "sizes": "1080x1920", "type": "image/jpeg", "form_factor": "narrow", "label": "STORY MOVIES Plans 50 MB" }
+  ],
+  "icons": [
+    { "src": "https://picsum.photos/72/72?21", "sizes": "72x72", "type": "image/png", "purpose": "any" },
+    { "src": "https://picsum.photos/96/96?21", "sizes": "96x96", "type": "image/png", "purpose": "any" },
+    { "src": "https://picsum.photos/128/128?21", "sizes": "128x128", "type": "image/png", "purpose": "any" },
+    { "src": "https://picsum.photos/144/144?21", "sizes": "144x144", "type": "image/png", "purpose": "any" },
+    { "src": "https://picsum.photos/152/152?21", "sizes": "152x152", "type": "image/png", "purpose": "any" },
+    { "src": "https://picsum.photos/192/192?21", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "https://picsum.photos/192/192?21", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "https://picsum.photos/384/384?21", "sizes": "384x384", "type": "image/png", "purpose": "any" },
+    { "src": "https://picsum.photos/512/512?21", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "https://picsum.photos/512/512?21", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "https://picsum.photos/1024/1024?21", "sizes": "1024x1024", "type": "image/png", "purpose": "any" }
+  ]
+}
